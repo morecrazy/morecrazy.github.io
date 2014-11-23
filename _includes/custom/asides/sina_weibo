@@ -1,0 +1,4 @@
+      <section>
+        <h2><i class="icon-home icon-large"></i>Sina Weibo</h2>
+        <iframe id="sina_widget_1222789964" style="width:100%; height:500px;" frameborder="0" scrolling="no" src="http://v.t.sina.com.cn/widget/widget_blog.php?uid=1222789964&height=500&skin=wd_01&showpic=0"></iframe>
+      </section>
