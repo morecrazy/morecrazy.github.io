@@ -12,7 +12,7 @@ comment: true
 # 联系我
 
 - Email：450714009@qq.com
-- github:www.github.com/morecrazy
+- github：https://github.com/morecrazy
 
 # 关于版权
 
