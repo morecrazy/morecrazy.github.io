@@ -1,6 +1,7 @@
       <section>
    	 <h2><i class="icon-home icon-large"></i>About</h2>
 	 <p class="entry-content">
-	 <img src="/portrait.jpg"></img>
+	 <a herf="/about.md" ><img src="/portrait.jpg"/></a>
+	 不为别的，只想认真做好这件事.
 	</p>
        </section>
