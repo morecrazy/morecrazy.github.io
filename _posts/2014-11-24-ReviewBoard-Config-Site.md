@@ -34,7 +34,7 @@ reviewboard安装好后，需要在apache上配置站点才能访问，包括域
 	service httpd restart
 使用域名加端口号（默认端口80）就能访问了。域名没配好的话，直接使用地址访问：http://XXXX:80/
 打开之后就可以看见登录的界面了：
-![reviewboard登录界面] (/assets/images/2014/reviewboard-login.jpg)
+![reviewboard登录界面] (/assets/images/2014/reviewboard-login.png)
 
 不过有几个地方需要注意，如果访问的时候报500错误，可以在/etc/httpd/conf/httpd.conf根目录加上这样的配置：
 
