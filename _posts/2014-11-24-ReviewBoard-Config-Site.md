@@ -66,7 +66,7 @@ Satisfy Any后就没有500错误
 
 建议即使只安装了pysvn模块的也更改此处，避免出问题。
 
-1. reviewboard发送邮件
+**reviewboard发送邮件**
 
 首先使用admin登录reviewboard系统，进入admin设置页面，点击右侧的Emails，然后进行配置，主要注意几个地方：
 
