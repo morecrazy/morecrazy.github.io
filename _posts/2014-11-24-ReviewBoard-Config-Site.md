@@ -84,7 +84,7 @@ Satisfy Any后就没有500错误
 
 	SMTP服务端口号，默认是25
 
-![邮件配置] (/assets/images/2014/reviewboard-email01.png)
+	![邮件配置] (/assets/images/2014/reviewboard-email01.png)
 
 邮件配置完成后，发现发送不了邮件，查看apache error log，发现报如下错误：
 
