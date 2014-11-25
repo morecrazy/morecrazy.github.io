@@ -55,8 +55,7 @@ Satisfy Any后就没有500错误
 ## 注意问题 ##
 
 
-
-1. 使用python操作svn
+ **使用python操作svn**
 
 使用reviewboard创建repository时，需要使用相应的支持svn的python库模块，有两种模块可供选择，一种是pysvn(推荐）一种是subvertpy。但是如果两种都安装了的话，reviewboard会默认选择subvertpy。有一种方法可以避免这种情况，可以更改setting_local.py中SVNTOOLS_BACKENDS的配置：
 
@@ -65,13 +64,9 @@ Satisfy Any后就没有500错误
     'reviewboard.scmtools.svn.subvertpy',
 	]
 
-建议即使只安装了pysvn模块的就更改此处，免得出问题
+建议即使只安装了pysvn模块的就更改此处，避免出问题。
 
-
-
-
-
-2. reviewboard发送邮件
+**reviewboard发送邮件**
 
 首先使用admin登录reviewboard系统，进入admin设置页面，点击右侧的Emails，然后进行配置，主要注意几个地方：
 
