@@ -54,7 +54,9 @@ Satisfy Any后就没有500错误
 
 ## 注意问题 ##
 
-- 使用python操作svn
+
+
+1. 使用python操作svn
 
 使用reviewboard创建repository时，需要使用相应的支持svn的python库模块，有两种模块可供选择，一种是pysvn(推荐）一种是subvertpy。但是如果两种都安装了的话，reviewboard会默认选择subvertpy。有一种方法可以避免这种情况，可以更改setting_local.py中SVNTOOLS_BACKENDS的配置：
 
@@ -65,21 +67,27 @@ Satisfy Any后就没有500错误
 
 建议即使只安装了pysvn模块的就更改此处，免得出问题
 
-- reviewboard发送邮件
+
+
+
+
+2. reviewboard发送邮件
 
 首先使用admin登录reviewboard系统，进入admin设置页面，点击右侧的Emails，然后进行配置，主要注意几个地方：
 
-1. Sender e-mail address
 
-发送邮件的地址，将其设置为e-mail header中的*Sender*字段。e-mail header中的*From*字段设置成发起评审的人的邮件地址。
 
-2. Mail Server
+- Sender e-mail address
 
-发送邮件的SMTP服务器地址。注：需要将发送邮件地址的smtp服务打开
+	发送邮件的地址，将其设置为e-mail header中的*Sender*字段。e-mail header中的*From*字段设置成发起评审的人的邮件地址。
 
-3. Port
+-  Mail Server
 
-SMTP服务端口号，默认是25
+	发送邮件的SMTP服务器地址。注：需要将发送邮件地址的smtp服务打开
+
+-  Port
+
+	SMTP服务端口号，默认是25
 
 ![邮件配置] (/assets/images/2014/reviewboard-email01.png)
 
