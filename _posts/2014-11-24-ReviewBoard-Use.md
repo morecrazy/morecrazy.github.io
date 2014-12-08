@@ -7,6 +7,8 @@ tags: [reviewboard, python, apache]
 ---
 
 ## 登录 ##
+地址：[http://10.13.88.165/](http://10.13.88.165/ "reviewboard地址")
+
 使用注册的账号访问之前配置的reviewboard站点
 ## 生成patch文件 ##
 本地代码有变更时，可以利用客户端软件，如tortoise SVN生成patch文件，在源码根目录窗口处，点击鼠标右键->TortoiseSVN->Create Patch，见下图：
@@ -47,7 +49,7 @@ tags: [reviewboard, python, apache]
 
 ![查看评审后的request] (/assets/images/2014/reviewboard-use07.png)
 
-如果评审未发现问题，则SUBMITTED工单，评审完成
+如果评审未发现问题，则SUBMITTED，评审完成
 
 ![关闭request] (/assets/images/2014/reviewboard-use08.png)
 
