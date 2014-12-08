@@ -7,7 +7,6 @@ tags: [reviewboard, python, apache]
 ---
 
 ## 登录 ##
-地址：[http://10.13.88.165/](http://10.13.88.165/ "reviewboard地址")
 
 使用注册的账号访问之前配置的reviewboard站点
 ## 生成patch文件 ##
