@@ -202,15 +202,33 @@ unitils整合了junit框架，加上@RunWith(UnitilsJUnit4TestClassRunner.class)
 
 @DataSet:加载相应的数据集文件，这里使用xls格式：
 
-![数据集] (/assets/images/2014/unitils-mybatis-01.png)
+![加载数据集] (/assets/images/2014/unitils-mybatis-01.png)
 
 excel文件中的每一列和数据库中的表相对应，下面sheet单的名字对应了数据库里相应的table
 
 根据配置的数据加载策略，每次@Test的时候，都是先clean掉数据库里的数据，然后再将excel中的数据插入。
 
-@ExpectedDataSet:验证数据，不会加载到数据库里。只要期望的数据在数据库里，测试用例就能通过
+@ExpectedDataSet:验证数据，不会加载到数据库里。只要满足期望的数据在数据库里，测试用例就能通过，而并不需要满足数据里的数据都能在期望excel表中查到。这点是需要注意的。
 
-此处为了使用useDao这个spring bean，采用的是以代码的方式，加载配置文件获取springContext中的bean。
+![加载数据集] (/assets/images/2014/unitils-mybatis-03.png)
+
+还有一点需要**注意**:使用@ExpectedDataSet注解进行数据验证时，并不会使用配置的数据加载策略，比如CleanInserty之类。所以对于有主键的数据插入，很容易出现冲突，解决办法有两个：
+
+1. 进行数据的验证时，不插入带有主键的数据。
+2. 使用注解的方式强制每次操作时，都清空相应的表，比如：
+
+
+	    @DataSet("BaseDao.xls")
+    	public class BaseDaoTest {
+    	
+    	}
+
+BaseDao.xls的作用就是清空数据，里面除了保护table名和column，没有数据
+
+![清空数据] (/assets/images/2014/unitils-mybatis-04.png)
+
+
+此处为了使用useDao这个spring bean，采用的是以代码的方式，加载配置文件applicationContext-mybatis.xml获取springContext中的bean。
 
 	<context:component-scan base-package="com.morecrazy.myspring.dao.mybatis" />
 	<context:component-scan base-package="com.morecrazy.myspring.service" />    
