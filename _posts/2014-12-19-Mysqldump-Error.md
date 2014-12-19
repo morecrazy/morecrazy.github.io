@@ -3,7 +3,7 @@ layout: post
 title: mysqldump: Got error: 1044: Access denied for user 'dsp_engine'@'10.79.%' to database 'dsp_engine' when using LOCK TABLES
 description: 解决用mysqldump进行备份时报的错误
 categories: 运维
-tags: [Mysql, Shell, Mysqldump, 问题]
+tags: [Mysql, Shell, Mysqldump]
 ---
 
 在用mysqldump进行数据库备份时，报如下一个错误：
