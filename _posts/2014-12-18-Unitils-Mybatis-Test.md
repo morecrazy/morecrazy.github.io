@@ -5,7 +5,9 @@ description: Unitils的目的是让单元测试变得更加容易和便于维护
 categories: 单元测试
 tags: [Spring, Unitils, Mybatis]
 ---
-# 配置  #
+
+# 1. 配置 #
+
 ## Maven工程文件pom.xml ##
 
 工程环境使用Maven进行构建，持久化层使用mybatis实现domain vo到数据库的流入。使用unitils框架的第一步得导入相应的jar包。
@@ -121,7 +123,8 @@ tags: [Spring, Unitils, Mybatis]
 
 不知道这是一个投机取巧的办法还是unitils的bug，但是用这种方式确实方便很多。我没有试过高版本的unitils的DataSetFactory支不支持xls，如果发现不支持，那么还是老老实实的构造一个支持xls的数据集工厂。至于怎么弄，我会在下一篇文章中分析，此处篇幅有限，就使用这种省事但效果一样的办法。
 
-# 测试代码 #
+
+# 2. 测试代码 #
 
 配置完成后，就可以针对相应的dao进行测试。此处我采用mybatis作为持久层的实现。mybatis相对hibernate更灵活，能自己控制sql语句，并且层次清晰，掌握起来容易。只需要写好相应的dao接口，配置好映射文件即可。
 
