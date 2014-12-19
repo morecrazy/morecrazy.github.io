@@ -1,6 +1,6 @@
 ---
 layout: post
-title: mysqldump: Error 2013: Lost connection to MySQL server during query when dumping table `fee_record_2013_11` at row: 1066768
+title: mysqldump Error 2013 Lost connection to MySQL server during query when dumping table `fee_record_2013_11` at row 1066768
 description: mysqldump进行数据库备份时，由于mysqldump处理不过来server端的数据，server断开连接报错
 categories: 运维
 tags: [Mysql, Mysqldump]
