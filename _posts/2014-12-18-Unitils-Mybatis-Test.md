@@ -5,8 +5,8 @@ description: Unitils的目的是让单元测试变得更加容易和便于维护
 categories: 单元测试
 tags: [Spring, Unitils, Mybatis]
 ---
-## 配置 ##
-- Maven工程文件pom.xml
+# 配置  #
+## Maven工程文件pom.xml ##
 
 工程环境使用Maven进行构建，持久化层使用mybatis实现domain vo到数据库的流入。使用unitils框架的第一步得导入相应的jar包。
 
@@ -23,7 +23,7 @@ tags: [Spring, Unitils, Mybatis]
 
 **注:** 只需要导入unitils包和dbunit包即可，unitils本身还包括一些依赖包：unitils-dbunit,unitils-database,unitils-spring等等。这些依赖包最好不要导入，导入后会覆盖unitils包下面的类，导致一些意想不到的错误
 
-- unitils.propertis
+## unitils.propertis ##
 
 在测试源代码的根目录下新建一个项目级别的配置文件unitils.propertis
 
@@ -212,7 +212,7 @@ excel文件中的每一列和数据库中的表相对应，下面sheet单的名�
 
 ![加载数据集] (/assets/images/2014/unitils-mybatis-03.png)
 
-还有一点需要**注意**:使用@ExpectedDataSet注解进行数据验证时，并不会使用配置的数据加载策略，比如CleanInserty之类。所以对于有主键的数据插入，很容易出现冲突，解决办法有两个：
+**注意**:使用@ExpectedDataSet注解进行数据验证时，并不会使用配置的数据加载策略，比如CleanInserty之类。所以对于有主键的数据插入，很容易出现冲突，解决办法有两个：
 
 1. 进行数据的验证时，不插入带有主键的数据。
 2. 使用注解的方式强制每次操作时，都清空相应的表，比如：
