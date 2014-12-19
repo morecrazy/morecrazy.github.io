@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 使用Unitils测试Mybatis持久化层
-description: Unitils的目的是让单元测试变得更加容易和便于维护，其整合了各种框架，包括spring,Hibernate,Dbunit等等，模块丰富。使用Unitils+Dbunit测试Dao层，是一种不错的方法。测试Dao层的关键在于测试数据和代码的隔离，而使用Unitils+Dbunit就能很好的做到这一点
+title: 使用Unitils框架测试基于Mybatis的持久化层
+description: Unitils的目的是让单元测试变得更加容易和便于维护，其整合了各种框架，包括spring,Hibernate,Dbunit等等，模块丰富。使用Unitils+Dbunit测试持久化层，是一种不错的方法。测试持久化层的关键在于测试数据和代码的隔离，而使用Unitils+Dbunit就能很好的做到这一点
 categories: 单元测试
 tags: [Spring, Unitils, Mybatis]
 ---
