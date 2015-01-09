@@ -1,7 +1,7 @@
 ---
 layout: post
-title: java ArrayList删除特定元素方法浅析
-description: ArrayList删除和添加元素时，都需要重新复制元素。但删除元素时，有些地方需要注意，稍微大意，就容易出错。最常见的一种异常是：java.util.concurrentmodificationexception。本篇文章中会分析几种删除特定元素的方法
+title: 结合源码分析java ArrayList删除特定元素的方法
+description: ArrayList删除和添加元素时，都需要重新复制元素。但删除元素时，有些地方需要注意，稍微大意，就容易出错。最常见的一种异常是：java.util.concurrentmodificationexception。本篇文章中会分析几种删除特定元素的方法，并结合源码给出分析
 categories: java基础
 tags: [ArrayList, Collection]
 ---
