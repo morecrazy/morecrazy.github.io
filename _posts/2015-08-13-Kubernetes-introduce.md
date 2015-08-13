@@ -30,7 +30,7 @@ Kubernetes以RESTFul形式开放接口，用户可操作的REST对象有三个�
    
    可以看到，`service`和`replicationController`只是建立在`pod`之上的抽象，最终是要作用于`pod`的，那么它们如何跟`pod`联系起来呢？这就要引入`label`的概念：`label`其实很好理解，就是为`pod`加上可用于搜索或关联的一组key/value标签，而`service`和`replicationController`正是通过`label`来与`pod`关联的。如下图所示，有三个`pod`都有label为"app=backend"，创建service和`replicationController`时可以指定同样的label:"app=backend"，再通过label selector机制，就将它们与这三个pod关联起来了。例如，当有其他frontend pod访问该`service`时，自动会转发到其中的一个backend pod。
    
-   ![标签查找](/assets/images/2015/labels.png)
+   ![标签查找] (/assets/images/2015/labels.png)
    
 **组件**
 
@@ -51,10 +51,13 @@ slave（称作minion)运行两个组件
 
 ##工作流
 
+**创建pod**
 ![创建pods](/assets/images/2015/createpod.png)
 
+**创建replicationController(rc)**
 ![创建rc](/assets/images/2015/replicationController.png)
 
+**创建service(svc)**
 ![创建svc](/assets/images/2015/service.png)
 
 
