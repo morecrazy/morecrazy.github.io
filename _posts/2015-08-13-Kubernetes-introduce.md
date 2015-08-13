@@ -1,3 +1,10 @@
+---
+layout: post
+title: Kubernetes 介绍
+description: kubernetes是一个开源的容器集群管理系统，kubernetes的目的是使容器或微服务的部署更简单，并提供强大的功能
+categories: Kubernetes
+tags: [docker, RESTFul, Kubernetes]
+---
 # Kubernetes
 
 ##简介
