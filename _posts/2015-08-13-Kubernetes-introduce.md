@@ -14,8 +14,10 @@ kubernetes是一个开源的容器集群管理系统，kubernetes的目的是使
 Kubernetes提供用于应用程序部署，调度，更新，维护和伸缩的机制。 Kubernetes的一个重要特点是，它可以主动管理容器，以确保集群的状态持续匹配用户的意图。
 
 ##架构
-![架构图] (/assets/images/2015/kubernetes-arch.png)
+![架构图](/assets/images/2015/kubernetes-arch.png)
+
 **对象**
+
 Kubernetes以RESTFul形式开放接口，用户可操作的REST对象有三个：
 
    - pod：是`Kubernetes`最基本的部署调度单元，可以包含`container`，逻辑上表示某种应用的一个实例。
@@ -28,7 +30,7 @@ Kubernetes以RESTFul形式开放接口，用户可操作的REST对象有三个�
    
    可以看到，`service`和`replicationController`只是建立在`pod`之上的抽象，最终是要作用于`pod`的，那么它们如何跟`pod`联系起来呢？这就要引入`label`的概念：`label`其实很好理解，就是为`pod`加上可用于搜索或关联的一组key/value标签，而`service`和`replicationController`正是通过`label`来与`pod`关联的。如下图所示，有三个`pod`都有label为"app=backend"，创建service和`replicationController`时可以指定同样的label:"app=backend"，再通过label selector机制，就将它们与这三个pod关联起来了。例如，当有其他frontend pod访问该`service`时，自动会转发到其中的一个backend pod。
    
-   ![标签查找](/assets/images/2015/lables.png)
+   ![标签查找](/assets/images/2015/labels.png)
    
 **组件**
 
@@ -44,6 +46,8 @@ slave（称作minion)运行两个组件
 
 - kubelet:负责管控`docker`容器，如启动/停止、监控运行状态等。它会定期从`etcd`获取分配到本机的`pod`，并根据`pod`信息启动或停止相应的容器。同时，它也会接收`apiserver`的HTTP请求，汇报pod的运行状态。
 - proxy:负责为`pod`提供代理。它会定期从`etcd`获取所有的`service`，并根据`service`信息创建代理。当某个客户`pod`要访问其他`pod`时，访问请求会经过本机`proxy`做转发。
+
+> 每个Kubernetes节点都运行一个kube-proxy这么一个服务代理,它 watch kubernetes 集群里 service 和 endpoints(label是某一特定条件的pods)这两个对象的增加或删除,　并且维护一个service 到 endpoints的映射. 他使用iptables REDIRECT target将对服务的请求流量转接到本地的一个port上,　然后再将流量发到后端,　这样的转发还支持一些策略,　如round robin等，所以我们可以把他看成是一个具有高级功能的反向代理.
 
 ##工作流
 
