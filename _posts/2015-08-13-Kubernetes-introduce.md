@@ -55,7 +55,7 @@ slave（称作minion)运行两个组件
 
 ##工作流
 
-创建pod
+**创建pod**
 
 ![创建pods](/assets/images/2015/createpod.png)
 
