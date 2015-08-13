@@ -14,13 +14,10 @@ kubernetes是一个开源的容器集群管理系统，kubernetes的目的是使
 Kubernetes提供用于应用程序部署，调度，更新，维护和伸缩的机制。 Kubernetes的一个重要特点是，它可以主动管理容器，以确保集群的状态持续匹配用户的意图。
 
 ##架构
+
 ![架构图](/assets/images/2015/kubernetes-arch.png)
 
-
-
 **对象**
-
-
 
 Kubernetes以RESTFul形式开放接口，用户可操作的REST对象有三个：
 
@@ -58,7 +55,7 @@ slave（称作minion)运行两个组件
 
 ##工作流
 
-**创建pod**
+创建pod
 
 ![创建pods](/assets/images/2015/createpod.png)
 
