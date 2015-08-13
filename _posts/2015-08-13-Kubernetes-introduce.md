@@ -45,6 +45,8 @@ master运行三个组件
 - scheduler:负责集群的资源调度，为新建的pod分配机器。这部分工作分出来变成一个组件，意味着可以很方便地替换成其他的调度器。
 
 - controller-manager:负责执行各种控制器，目前有两类：
+   - endpoint-controller：定期关联service和pod(关联信息由endpoint对象维护)，保证service到pod的映射总是最新的。
+   - replication-controller：定期关联replicationController和pod，保证replicationController定义的复制数量与实际运行pod的数量总是一致的。
 
 slave（称作minion)运行两个组件
 
@@ -52,6 +54,8 @@ slave（称作minion)运行两个组件
 - proxy:负责为`pod`提供代理。它会定期从`etcd`获取所有的`service`，并根据`service`信息创建代理。当某个客户`pod`要访问其他`pod`时，访问请求会经过本机`proxy`做转发。
 
 > 每个Kubernetes节点都运行一个kube-proxy这么一个服务代理,它 watch kubernetes 集群里 service 和 endpoints(label是某一特定条件的pods)这两个对象的增加或删除,　并且维护一个service 到 endpoints的映射. 他使用iptables REDIRECT target将对服务的请求流量转接到本地的一个port上,　然后再将流量发到后端,　这样的转发还支持一些策略,　如round robin等，所以我们可以把他看成是一个具有高级功能的反向代理.
+
+![service流程](/assets/images/2015/services-detail.png)
 
 ##工作流
 
