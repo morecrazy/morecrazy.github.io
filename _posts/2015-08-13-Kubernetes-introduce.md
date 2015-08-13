@@ -58,12 +58,15 @@ slave（称作minion)运行两个组件
 ##工作流
 
 **创建pod**
+
 ![创建pods](/assets/images/2015/createpod.png)
 
 **创建replicationController(rc)**
+
 ![创建rc](/assets/images/2015/replicationController.png)
 
 **创建service(svc)**
+
 ![创建svc](/assets/images/2015/service.png)
 
 
