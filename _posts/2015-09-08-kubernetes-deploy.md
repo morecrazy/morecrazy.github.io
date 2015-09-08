@@ -228,4 +228,12 @@ kubernetes是一个master/slave架构，现版本kubernetes支持单节点master
 
 现在kubernetes的集群已经搭建好了，能够创建pods
 
+**参考链接**
+
+- [http://www.severalnines.com/blog/installing-kubernetes-cluster-minions-centos7-manage-pods-services](http://www.severalnines.com/blog/installing-kubernetes-cluster-minions-centos7-manage-pods-services)
+
+- [http://www.colliernotes.com/2015/01/flannel-and-docker-on-fedora-getting.html](http://www.colliernotes.com/2015/01/flannel-and-docker-on-fedora-getting.html)
+
+- [http://www.slideshare.net/lorispack/using-coreos-flannel-for-docker-networking](http://www.slideshare.net/lorispack/using-coreos-flannel-for-docker-networking)
+
 
