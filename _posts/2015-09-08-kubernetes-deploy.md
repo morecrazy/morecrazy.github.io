@@ -1,6 +1,3 @@
-
-
-
 ---
 layout: post
 title: kubernetes集群的安装和部署
