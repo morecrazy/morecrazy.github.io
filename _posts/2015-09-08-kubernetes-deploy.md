@@ -107,7 +107,7 @@ kubernetes是一个master/slave架构，现版本kubernetes支持单节点master
 	
 **step 2:**
 
-修改flannel配置文件
+修改flannel配置文件`/etc/sysconfig/flanneld`
 
 	FLANNEL_ETCD="http://192.168.1.10:2379"
 	FLANNEL_ETCD_KEY="/coreos.com/network"
@@ -179,6 +179,11 @@ kubernetes是一个master/slave架构，现版本kubernetes支持单节点master
 **step 9:**
 
 启动docker
+
+首先删除docker自己的网桥`docker0`
+
+	$ifconfig docker0 down
+	$brctl delbr docker0
 
 修改docker的service文件：`/usr/lib/systemd/system/docker.service`
 
