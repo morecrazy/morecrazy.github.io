@@ -3,7 +3,7 @@ layout: post
 title: kubernetes scheduler源码剖析
 description: 剖析k8s scheduler源码，理解scheduler分配pod的依据，学习googlers写代码时使用的设计模式和考虑的方面
 categories: kubernetes
-tags: [docker, kubernetes, 源码分析]
+tags: [docker, kubernetes, scheduler]
 ---
 
 
