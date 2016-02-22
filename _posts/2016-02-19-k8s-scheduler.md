@@ -6,10 +6,6 @@ categories: kubernetes
 tags: [docker, kubernetes, scheduler]
 ---
 
-
-# Kubernetes scheduler源码剖析
-
-
 `scheduler`在整个集群中负责`pod`的调度，对机器（node）进行筛选和过滤，选择最合适的机器运行`pod`。这部分组件是以插件的形式存在的，如果需要定制调度算法也是比较方便
 
 scheduler是作为plugin放在k8s里面，代码在`/plugin`下面。代码结构如下：
