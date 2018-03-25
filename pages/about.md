@@ -1,18 +1,14 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 十年磨一剑
+keywords: Allen Zhang, morecrazy
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
-
-仰慕「优雅编码的艺术」。
-
-坚信熟能生巧，努力改变人生。
+在山的那边海的那边，有一群程序员，他们聪明又努力，可爱却没钱
 
 ## 联系
 

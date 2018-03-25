@@ -2,188 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45ae323f-e920-4378-a6c8-bde3036961b6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/404.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rakefile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_config.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/JB/analytics" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/JB/analytics-providers/getclicky" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/JB/analytics-providers/google" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/JB/analytics-providers/mixpanel" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/JB/analytics-providers/piwik" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/JB/categories_list" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/JB/comments" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/JB/comments-providers/disqus" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/JB/comments-providers/facebook" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/JB/comments-providers/intensedebate" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/JB/comments-providers/livefyre" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/JB/liquid_raw" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/JB/pages_list" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/JB/posts_collate" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/JB/setup" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/JB/sharing" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/JB/tags_list" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/custom/51la" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/custom/analytics-providers/custom" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/custom/aside" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/custom/asides/aboutme" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/custom/asides/blogroll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/custom/asides/categories" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/custom/asides/license" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/custom/asides/recently_comments" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/custom/asides/recently_posts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/custom/asides/recently_visitors" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/custom/asides/related_posts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/custom/asides/sina_weibo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/custom/asides/tags_cloud" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/custom/comments-providers/duoshuo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/custom/comments-providers/duoshuo_script" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/custom/sharing" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/custom/totop" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/themes/allenliu/default.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/themes/allenliu/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/themes/allenliu/page.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/themes/allenliu/post.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/themes/allenliu/settings.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/themes/twitter/default.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/themes/twitter/page.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/themes/twitter/post.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/themes/twitter/settings.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_layouts/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_layouts/page.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_plugins/debug.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2014-11-21-ReviewBoard-Install.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2014-11-22-Svn-Commit-Ignore.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2014-11-24-ReviewBoard-Config-Site.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2014-11-24-ReviewBoard-Use.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2014-12-17-Hive-ExportData-ToFile.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2014-12-18-Unitils-Mybatis-Test.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2014-12-19-Mysqldump-Con-Error.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2014-12-19-Mysqldump-Error.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-01-09-ArrayList-Remove.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-01-09-JDB-Tomcat.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-06-11-ArrayList-Source.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-07-03-Jedis.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-08-04-multi-ssh-key-manage.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-08-04-ssh-keygen-basic.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-08-13-Kubernetes-introduce.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-09-06-Dockerfile-use.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-09-08-kubernetes-deploy.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-09-08-kubernetes-use.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-02-19-k8s-scheduler.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-04-11-Runc-Source-Part1.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/about.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/archive.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2011/05/embedded.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2011/05/standalone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2011/06/eucalyptus-2.0.3-src-01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2011/06/eucalyptus-2.0.3-src-02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2011/07/3-cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2011/07/3-cloud2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2011/07/Cloud-Provider-Conceptual-Architecture.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2011/07/Nova-Conceptual-Mapping.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2011/07/OpenStack-Compute-Logical-Architecture.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2011/07/QQ20110724211631.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2011/07/Service-Architecture.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2011/07/Service-Architecture2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2011/07/dhtmlxgrid-context-menu.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2011/07/dhtmlxgrid-custom-head-menu.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2011/07/dhtmlxgrid-head-menu.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2011/07/hyb-cloud2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2011/07/one-cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2011/07/one-services.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2011/07/private-cloud1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2011/07/private-cloud2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2011/07/public-cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2011/08/export-dhtmlx-to-pdf-pdf.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2011/08/export-dhtmlxgrid-to-pdf.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2012/01/kettle-add-primary-key-and-indexes.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2012/01/kettle-look-up.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2012/01/kettle-table-out.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2012/02/spoon-execute-sequence.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2012/02/this-expression-flow-of-el.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2012/02/this-expression-of-el.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2013/20131017-01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2013/20131017-02.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2013/20131017-03.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2013/get-a-field-from-paramter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2013/hbase-output-setup-for-idh-2.3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2013/hive-cli-clidriver.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2013/hive-driver.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2013/hive-server2-invoke.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2013/implement-of-hiveinputformat.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2013/join-a-paramter-to-input-in-kettle.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2013/run-kettle-for-join-two-inputs.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2013/zookeeper-01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2013/zookeeper-02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2014/JDGArchitecture.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2014/reviewboard-email01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2014/reviewboard-login.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2014/reviewboard-use01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2014/reviewboard-use02.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2014/reviewboard-use03.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2014/reviewboard-use04.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2014/reviewboard-use05.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2014/reviewboard-use06.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2014/reviewboard-use07.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2014/reviewboard-use08.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2014/reviewboard-use09.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2014/unitils-mybatis-01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2014/unitils-mybatis-02.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2014/unitils-mybatis-03.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2014/unitils-mybatis-04.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2015/createpod.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2015/jedis-pool.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2015/kubernetes-arch.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2015/labels.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2015/replicationController.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2015/service.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/2015/services-detail.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/CC.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/themes/allenliu/_sass/_base.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/themes/allenliu/_sass/_custom.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/themes/allenliu/_sass/_responsive.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/themes/allenliu/_sass/style.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/themes/allenliu/css/pygments.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/themes/allenliu/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/themes/allenliu/fancybox/blank.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/themes/allenliu/fancybox/fancybox_loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/themes/allenliu/fancybox/fancybox_loading@2x.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/themes/allenliu/fancybox/fancybox_overlay.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/themes/allenliu/fancybox/fancybox_sprite.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/themes/allenliu/fancybox/fancybox_sprite@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/themes/allenliu/fancybox/jquery.fancybox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/themes/allenliu/fancybox/jquery.fancybox.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/themes/allenliu/fancybox/jquery.fancybox.pack.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/themes/allenliu/js/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/themes/allenliu/js/jquery.tagcanvas.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/themes/allenliu/js/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/themes/twitter/bootstrap/css/bootstrap-responsive-my.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/themes/twitter/bootstrap/css/bootstrap-responsive.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/themes/twitter/bootstrap/css/bootstrap.min-my.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/themes/twitter/bootstrap/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/themes/twitter/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/themes/twitter/js/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/themes/twitter/js/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/atom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/categories.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/default.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/functions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/garden.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/p.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/portrait.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/robots.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rss.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sitemap.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sitemap.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tags.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_drafts/poor-charlies-almanack-note.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_drafts/sqlite-frequently-asked-questions.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_drafts/template.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_drafts/threadmanage.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_drafts/travis-ci-for-gitbook.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/android-studio.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/axure.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/badminton.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/chinese-copywriting-guidelines.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/eclipse.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/emacs.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/git.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/good-soft.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/ida-pro.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/intellij-idea.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/linux.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/mac.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/markdown.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/mpv.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/ollydbg.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/onenote.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/php.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/python.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/qt-creator.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/source-insight.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/swimming.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/template.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/vim.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/visual-studio-code.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/visual-studio.md" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/links.yml" afterPath="$PROJECT_DIR$/_data/links.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/skills.yml" afterPath="$PROJECT_DIR$/_data/skills.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/social.yml" afterPath="$PROJECT_DIR$/_data/social.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/about.md" afterPath="$PROJECT_DIR$/pages/about.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -198,11 +52,54 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+            <state relative-caret-position="1605">
+              <caret line="107" column="20" lean-forward="true" selection-start-line="107" selection-start-column="20" selection-end-line="107" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/about.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="150">
+                <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="skills.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_data/skills.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="links.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_data/links.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="social.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_data/social.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="17" lean-forward="true" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -221,7 +118,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/pages/about.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_data/social.yml" />
+        <option value="$PROJECT_DIR$/_data/skills.yml" />
+        <option value="$PROJECT_DIR$/_data/links.yml" />
       </list>
     </option>
   </component>
@@ -256,6 +157,48 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="morecrazy.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="morecrazy.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="morecrazy.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="morecrazy.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="morecrazy.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="morecrazy.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="morecrazy.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_data" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -372,7 +315,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -396,7 +339,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="DBOutput" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -416,10 +359,64 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_drafts/poor-charlies-almanack-note.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/comments.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        <state relative-caret-position="1605">
+          <caret line="107" column="20" lean-forward="true" selection-start-line="107" selection-start-column="20" selection-end-line="107" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/social.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="17" lean-forward="true" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/about.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/skills.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/links.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
