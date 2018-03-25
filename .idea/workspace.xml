@@ -1,44 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="45ae323f-e920-4378-a6c8-bde3036961b6" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_drafts/poor-charlies-almanack-note.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_drafts/sqlite-frequently-asked-questions.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_drafts/template.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_drafts/threadmanage.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_drafts/travis-ci-for-gitbook.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/android-studio.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/axure.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/badminton.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/chinese-copywriting-guidelines.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/eclipse.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/emacs.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/git.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/good-soft.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/ida-pro.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/intellij-idea.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/linux.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/mac.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/markdown.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/mpv.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/ollydbg.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/onenote.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/php.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/python.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/qt-creator.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/source-insight.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/swimming.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/template.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/vim.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/visual-studio-code.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_wiki/visual-studio.md" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/links.yml" afterPath="$PROJECT_DIR$/_data/links.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/skills.yml" afterPath="$PROJECT_DIR$/_data/skills.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/social.yml" afterPath="$PROJECT_DIR$/_data/social.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/about.md" afterPath="$PROJECT_DIR$/pages/about.md" />
-    </list>
+    <list default="true" id="45ae323f-e920-4378-a6c8-bde3036961b6" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -85,12 +48,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="links.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="links.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_data/links.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state relative-caret-position="270">
+              <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2011-10-11-fibonacci.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2011-10-11-fibonacci.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="75">
+                <caret line="5" column="8" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="8" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2014-11-21-ReviewBoard-Install.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2014-11-21-ReviewBoard-Install.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -185,6 +174,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="morecrazy.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="morecrazy.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_posts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -415,9 +418,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_data/links.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state relative-caret-position="270">
+          <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2011-10-11-fibonacci.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="8" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="8" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2014-11-21-ReviewBoard-Install.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
