@@ -14,7 +14,7 @@ code review是一个容易被忽视但实际上很重要的过程，它的益处
 
 官方文档参考：[http://www.reviewboard.org/docs/manual/1.7/admin/installation/linux/](http://www.reviewboard.org/docs/manual/1.7/admin/installation/linux/)
 
-## - 安装Python2.7 ##
+## 安装Python2.7
 
 reviewboard需要python2.5以上的版本
 
@@ -58,13 +58,13 @@ CentOS默认安装的是Python2.4.3
 
 
 
-## - 安装数据库 ##
+## 安装数据库
 
 python推荐三种数据库，我用的是mysql:
 
     yum install mysql mysql-server mysql-devel
 
-## - 安装web服务器 ##
+## 安装web服务器
 
 有两种组合：
 
@@ -94,7 +94,7 @@ python推荐三种数据库，我用的是mysql:
     备注：mod_wsgi.so会被拷贝到/usr/lib64/httpd/modules/，即/etc/httpd/modules。
      -----------------------------------至此，mod_wsgi 3.4 安装完毕-----------------------------------------------
 
-## - 安装python setuptools ##
+## 安装python setuptools
 
     
     $ yum install python-setuptools
@@ -118,24 +118,24 @@ python推荐三种数据库，我用的是mysql:
 
 
 
-## - 安装Python Development Header ##
+## 安装Python Development Header
 
     $ yum install python-devel
     备注：使用源码安装Python的话，不需要安装python-devel。而且，python27-devel的RPM很难找，就像python27本身一样。
 
-## - 安装memcached(可选) ##
+## 安装memcached(可选)
 
     $ yum install memcached
     $ easy_install python-memcached
     备注：除了要安装memcached以为，还要安装支持memcached的python模块
 
-## - 安装patch ##
+## 安装patch 
 
 安装patch模块后,reviewboard能使用view diff功能
 
     $ yum install patch
 
-## - 安装ReviewBoard ##
+## 安装ReviewBoard
 
 终于来到了这一步，哈哈
 
@@ -151,13 +151,13 @@ python推荐三种数据库，我用的是mysql:
 
 然后再执行reviewboard的easy_install.
 
-## - 安装database bindings ##
+## 安装database bindings
 
 Mysql:
 
     $ easy_install mysql-python
 
-## - 安装版本控制系统 ##
+## 安装版本控制系统
 
 项目中使用的svn作为版本控制系统，所以此处需要安装subversion
 
