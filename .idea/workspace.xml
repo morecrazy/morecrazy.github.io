@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="45ae323f-e920-4378-a6c8-bde3036961b6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-08-13-Kubernetes-introduce.md" afterPath="$PROJECT_DIR$/_posts/2015-08-13-Kubernetes-introduce.md" />
-    </list>
+    <list default="true" id="45ae323f-e920-4378-a6c8-bde3036961b6" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +29,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2015-08-13-Kubernetes-introduce.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="540">
+              <first_editor relative-caret-position="177">
                 <caret line="36" column="7" lean-forward="false" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
                 <folding />
               </first_editor>
@@ -534,7 +531,7 @@
     <entry file="file://$PROJECT_DIR$/_posts/2015-08-13-Kubernetes-introduce.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="540">
+          <first_editor relative-caret-position="177">
             <caret line="36" column="7" lean-forward="false" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
             <folding />
           </first_editor>
