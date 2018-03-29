@@ -71,6 +71,7 @@ slave（称作minion)运行两个组件
 
 **创建service(svc)**
 
+![创建](/images/blog/1024-gold.png)
 ![创建svc](/assets/images/2015/service.png)
 
 
