@@ -1,7 +1,7 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl:/_posts
+baseurl:
 url: http://morecrazy.github.io
 date_format: "ordinal"
 title: More Crazy
